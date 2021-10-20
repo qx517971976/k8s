@@ -1,2 +1,2 @@
-FROM busybox:latest
+FROM k8s.gcr.io/metrics-server/metrics-server:v0.5.1
 MAINTAINER xumsi
