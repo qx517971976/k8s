@@ -1,1 +1,2 @@
+FROM deltaprojects/etcdkeeper
 MAINTAINER xumsi
