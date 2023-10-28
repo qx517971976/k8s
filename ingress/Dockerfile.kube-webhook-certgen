@@ -1,2 +1,2 @@
-FROM k8s.gcr.io/metrics-server/metrics-server:v0.4.1  
+FROM registry.k8s.io/ingress-nginx/kube-webhook-certgen:v20231011-8b53cabe0
 MAINTAINER xumsi
